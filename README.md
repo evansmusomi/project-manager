@@ -12,7 +12,7 @@ Each feature manipulates or displays information related to projects.
 * _View Projects_ : `User can view a list of created projects`
 * _View Project_ : `User can view a project's details`
 * _Create Project Task_ : `User can add a task to a project`
-* _Update Project Task_ : `User can edit and update a project task`
+* _Complete Project Task_ : `User can mark a project task as complete`
 * _Delete Project Task_ : `User can delete a project task`
 * _View Project Tasks_ : `User can view a list of created project tasks`
 
